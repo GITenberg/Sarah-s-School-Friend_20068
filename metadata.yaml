@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '9061'
     url: http://www.gutenberg.org/2009/agents/9061
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20068#Sarah-s-School-Friend
 gutenberg_issued: '2006-12-09'
 gutenberg_type: Text
 identifiers:
